@@ -1,0 +1,9 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <text transform="matrix(0.698579 0 0 0.88778 10.2379 7.9921)" stroke="null" font-weight="normal" font-style="normal" xml:space="preserve" text-anchor="start" font-family="monospace" font-size="20" id="svg_7" y="23.3164" x="3.36829" stroke-width="0" fill="#fff">ТОВАР</text>
+  <text transform="matrix(1.32764 0 0 0.715885 -3.62347 11.31758)" stroke="null" font-style="normal" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="monospace" font-size="18" id="svg_10" y="45.68102" x="9.87807" stroke-width="0" fill="#ffffff">ДНЯ</text>
+  <text transform="matrix(1.42813 0 0 1.41023 -20.4811 -17.5972)" stroke="null" xml:space="preserve" text-anchor="start" font-family="monospace" font-size="18" id="svg_11" y="44.60872" x="46.41397" stroke-width="0" fill="#ffffff">!</text>
+ </g>
+
+</svg>
